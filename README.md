@@ -59,5 +59,5 @@ chatamize.getMessage({
 
 ## Works well with
 
-[witbot](https://www.npmjs.com/package/witbot): Chatamize.com is the mouth to wit.ai's ears!
-[Botkit](https://www.npmjs.com/package/botkit): Botkit is the brain for wit.ai's ears and Chatamize.com's mouth
+- [witbot](https://www.npmjs.com/package/witbot): Chatamize.com is the mouth to wit.ai's ears!
+- [Botkit](https://www.npmjs.com/package/botkit): Botkit is the brain for wit.ai's ears and Chatamize.com's mouth
