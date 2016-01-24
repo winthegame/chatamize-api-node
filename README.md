@@ -30,7 +30,7 @@ Then, in your code, you can call
 ```
 chatamize.getMessage({intent: "ask_toppings"}, function(response) {
   //response.message is the message that Chatamize proposes that you say
-};
+});
 ```
 
 For example, if you're using [botkit](https://github.com/howdyai/botkit)
@@ -38,7 +38,7 @@ For example, if you're using [botkit](https://github.com/howdyai/botkit)
 ```
 chatamize.getMessage({intent: "ask_toppings"}, function(response) {
   bot.say(response.message);
-};
+});
 ```
 
 ### Context
@@ -54,7 +54,7 @@ chatamize.getMessage({
 }, function(response) {
   // We'll return your message with context variables inserted into the message
   // Specify context variables that you want to use at Chatamize.com/variables
-};
+});
 ```
 
 ## Works well with
