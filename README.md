@@ -1,4 +1,4 @@
-# A simple Chatamize interface for bots
+# A simple (Chatamize)[http://chatamize.com] interface for bots
 Node package for easily accessing the Chatamize.com api
 Find it on npm [here](https://www.npmjs.com/package/chatamize-api-node).
 
