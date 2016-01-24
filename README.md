@@ -64,4 +64,4 @@ chatamize.getMessage({
 
 ## Need help using this package?
 
-Feel free to contact me at rafaelcosman@gmail.com or reach out to @rafaelcosman in dev4slack.slack.com.
+Feel free to contact me at rafaelcosman@gmail.com or reach out to @rafaelcosman in [dev4slack.slack.com](http://dev4slack.slack.com).
