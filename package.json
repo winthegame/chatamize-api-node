@@ -1,0 +1,16 @@
+{
+  "name": "chatamize-api-node",
+  "version": "1.0.0",
+  "description": "Node package for accessing the Chatamize.com API.",
+  "main": "chatamize-api-node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Chatamize.com",
+    "bots",
+    "chat"
+  ],
+  "author": "@rafaelcosman",
+  "license": "ISC"
+}
