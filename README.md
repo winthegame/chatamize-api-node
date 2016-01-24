@@ -2,7 +2,7 @@
 Node package for easily accessing the Chatamize.com api
 Find it on npm [here](https://www.npmjs.com/package/chatamize-api-node).
 
-(Chatamize)[Chatamize.com] is a really approachable API for managing a bot's messages.
+(Chatamize.com)[http://Chatamize.com] is a really approachable API for managing a bot's messages.
 
 ## Install
 
